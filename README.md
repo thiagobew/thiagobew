@@ -13,10 +13,8 @@
 **Drone-swarm emulation runtime** (Embedded Software Systems Lab, Universität Osnabrück, since 04/2025)
 A runtime that emulates swarms of up to **90 drones as KVM virtual machines**, with per-node flight physics, battery and path-planning simulation, a ray-traced wireless channel model and containerized workloads.
 
-- Decentralized task-offloading protocol (bid/response/ACK with ARQ retransmission over UDP/protobuf) that moves containerized ROS 2 workloads between nodes by capability, battery and position
-- Network-emulation layer that applies channel-model output (delay, loss, rate) to live traffic via `tc/netem`, with a deadband and batched apply interval to limit shaping overhead
-- Unattended, replicated experiment runs (10 replicates per configuration) with VM- and host-level metrics, and an analysis pipeline using Welch's t-test, effect sizes and Holm correction
-- PyQt6/Zenoh live telemetry and task-visualization dashboard
+- Designing and building an emulation environment for drone swarms, combining virtualization, wireless channel modeling and containerized ROS 2 workloads.
+- Developing network emulation, experiment automation and analysis tooling for ongoing research.
 
 > Source code: not public yet. <!-- Replace with a link if you get permission to publish it. -->
 
