@@ -16,8 +16,6 @@ A runtime that emulates swarms of up to **90 drones as KVM virtual machines**, w
 - Designing and building an emulation environment for drone swarms, combining virtualization, wireless channel modeling and containerized ROS 2 workloads.
 - Developing network emulation, experiment automation and analysis tooling for ongoing research.
 
-> Source code: not public yet. <!-- Replace with a link if you get permission to publish it. -->
-
 ---
 
 ## Experience
