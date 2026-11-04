@@ -3,7 +3,6 @@
 **M.Sc. Computer Science student at Universität Osnabrück** (graduating 10/2027), working on **embedded, wireless and distributed systems**. Four years of research and industry experience, two peer-reviewed publications, and a focus on software that has to work on constrained devices, over unreliable networks, at scale.
 
 📍 Osnabrück, Germany · 🗣️ English (C2), German (B2, C1 course in progress), Portuguese (native)
-🔎 Looking for Systems/Embedded Software roles in Germany (full-time from 11/2027)
 
 <!-- Adjust the line above to match your current objective (Werkstudent, thesis, full-time). -->
 
